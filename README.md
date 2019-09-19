@@ -2,7 +2,6 @@
 
 Classes:
 * Castle
-* CastleMethods
 * Gold
 * MagnaCarta
 * Main
